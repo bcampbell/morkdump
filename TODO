@@ -1,0 +1,4 @@
+handle groups properly (including delete/modify row ops etc)
+dumping: unescape strings
+dumping: convert numeric values from hex?
+
